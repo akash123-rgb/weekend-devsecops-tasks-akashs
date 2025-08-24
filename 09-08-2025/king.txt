@@ -1,1 +1,4 @@
 create file
+hello man
+morning
+how are you
